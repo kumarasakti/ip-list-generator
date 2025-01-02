@@ -31,7 +31,3 @@ git clone https://github.com/kumarasakti/ip-list-generator.git
 go build ip-list-generator.go
 ip-list-generator --help
 ```
-Use go get
-```bash
-go get github.com/yourusername/ip-list-generator
-```
